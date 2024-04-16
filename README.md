@@ -8,7 +8,7 @@ Este proyecto, contiene un lector, para cuatro iButton (Arduino Nano).
 ![Image text](https://github.com/jogonzalez90/DS_Serial/blob/main/DS_serial/Proteus/PCB.png)
 
 # 3D
-![Image text](https://github.com/jogonzalez90/DS_Serial/blob/main/DS_serial/Proteus/PCB_1.jpeg)
+![Image text](https://github.com/jogonzalez90/DS_Serial/blob/main/DS_serial/Proteus/3D.png)
 
 # PCB
 ![Image text](https://github.com/jogonzalez90/DS_Serial/blob/main/DS_serial/Proteus/PCB_1.jpeg)
